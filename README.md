@@ -1,4 +1,4 @@
-# FormPass Payment
+# payment-gated-form-system 
 
 A payment-first full-stack app that requires a one-time Stripe payment before users can access and submit a registration form.
 
@@ -15,7 +15,7 @@ This project is designed for use cases where form access is gated behind payment
 
 ## Recommended GitHub repo name
 
-- `formpass-payment`
+- `payment-gated-form-system` — describes the app's purpose and functionality.
 
 ## What users see
 
